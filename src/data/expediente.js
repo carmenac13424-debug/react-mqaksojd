@@ -28,7 +28,7 @@ function saveExp(exp) {
 function defaultExp() {
   return {
     paciente: {
-      nombre: "Paciente Demo",
+      nombre: "Carlos Méndez",
       edad: 58,
       sexo: "M",
     },

@@ -108,6 +108,14 @@ export const EMEDS = {
   susp:   {dot:C.mgray, label:"Suspendido",       bc:C.border},
 };
 
+export const FAV_MEDS_RD = [
+  "Losartán 50mg", "Amlodipina 5mg", "Metformina 850mg",
+  "Januvia 100mg", "Levotiroxina 50mcg", "Omeprazol 20mg",
+  "Atorvastatina 20mg", "Aspirina 81mg", "Lisinopril 10mg",
+  "Hidroclorotiazida 25mg", "Enalapril 10mg", "Glibenclamida 5mg",
+  "Furosemida 40mg", "Propranolol 40mg", "Atenolol 50mg",
+];
+
 export const NP_SUGS = [
   "Descartar SCA vs TEP","Preguntar tabaquismo real",
   "Considerar angioTC","Posible ansiedad",
